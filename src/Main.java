@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Restaurante restaurante = new Restaurante("Restaurante Saboroso");
+        Restaurante restaurante = new Restaurante("Pizzaria Dominos");
 
         // Criando e adicionando itens ao restaurante
         PratoPrincipal pizza = new PratoPrincipal("Pizza Margherita", 29.99, "Pizza com molho de tomate, mussarela e manjericão.");
